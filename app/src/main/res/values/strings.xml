@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">TRACKIFY</string>
+    <string name="Login">Login</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="NewPassword">New Password</string>
+    <string name="CreateAccount">Create Account</string>
+    <string name="NewUsername">New Username</string>
+    <string name="AddExpense">Add Expense</string>
+    <string name="Amount">Amount</string>
+    <string name="Date">Select Date</string>
+    <string name="HOME">Home</string>
+    <string name="DASHBOARD">Dashboard</string>
+    <string name="LoginInfo">Login Info</string>
+    <string name="Expense">Expense</string>
+    <string name="Income">Income</string>
+    <string name="ACCOUNT">Account</string>
+    <string name="plus">+</string>
+    <string name="Description">Description</string>
+    <string name="Category">Category</string>
+    <string name="SaveExpense">Save Expense</string>
+    <string name="Register">Register</string>
+    <string name="ExpenseSummary">Expense Summary</string>
+    <string name="TotalExpenses">Total Expenses: ₹%.2f</string>
+    <string name="ExpensesByCategory">Expenses by Category</string>
+    <string name="ExpensesByMonth">Expenses by Month</string>
+    <string name="ExpensesByYear">Expenses by Year</string>
+    <string name="ExpensesByDay">Expenses by Day</string>
+    <string name="ExpensesByWeek">Expenses by Week</string>
+    <string name="ExpensesByQuarter">Expenses by Quarter</string>
+    <string name="ExpensesBySemester">Expenses by Semester</string>
+    <string name="ExpensesByFinancialYear">Expenses by Financial Year</string>
+    <string name="ExpensesByCustomRange">Expenses by Custom Range</string>
+    <string name="StartDate">Start Date</string>
+    <string name="EndDate">End Date</string>
+    <string name="FilterExpenses">Filter Expenses</string>
+    <string name="NoExpensesFound">No expenses found for the selected period.</string>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Healthcare</item>
+        <item>Other</item>
+    </string-array>
+    <string name="select_category">Select a Category</string>
+
+    <string-array name="expense_types">
+        <item>expense</item>
+        <item>income</item>
+    </string-array>
+    <string-array name="filter_options">
+        <item>Daily</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+</resources>
